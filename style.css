@@ -1,0 +1,26 @@
+*{
+    border:0;
+    margin:0;
+    padding:0;
+    outline:0;
+    text-decoration:none;
+}
+nav{display:flex;
+justify-content: space-between;
+padding:30px 100px;
+Background:#4070F4;
+}
+ul{display:flex;
+list-style:none;}
+ul li a{padding:10px 23px;
+font-size:25px;
+color:white;
+font-family:'Courier New', Courier, monospace;}
+.logo{font-size:30px;
+color:white;
+font-family:Rockwell;}
+a:hover{color:#4070F4;;
+background:white;
+border-radius:30px;
+height:20px;}
+    
